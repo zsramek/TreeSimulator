@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>833EBF20-7EDD-426C-9B3B-E60B9035F947</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4FD8A875A56500F54D69A7C7CF110616F3697EA3</key>
+		<string>https://github.com/zsramek/TreeSimulator.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4FD8A875A56500F54D69A7C7CF110616F3697EA3</key>
+		<string>TreeSimulator/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/zsramek/TreeSimulator.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4FD8A875A56500F54D69A7C7CF110616F3697EA3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4FD8A875A56500F54D69A7C7CF110616F3697EA3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TreeSimulator</string>
+		</dict>
+	</array>
+</dict>
+</plist>
